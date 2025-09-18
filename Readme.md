@@ -1,3 +1,5 @@
+# Hi 👋, I'm Spoorthi S
+
 # 💫 About Me:
 I am a Java Full Stack Developer (Fresher) with a solid foundation in Java, Spring Boot, Hibernate, SQL, HTML, CSS, JavaScript, and React, passionate about building scalable and user-friendly web applications.<br><br>I have completed 6 months of training in full stack development and worked on projects. Currently, I am enhancing my skill set by learning DevOps tools such as Docker, Git, CI/CD, and cloud technologies. My goal is to grow as a full stack developer while contributing to high-quality, efficient, and modern software solutions.
 
